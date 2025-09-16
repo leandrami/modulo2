@@ -15,3 +15,4 @@ if (idade >= 5 && idade <= 7) {
   // Este 'else' lida com idades abaixo de 5 anos
   console.log("Idade inválida. O nadador não se encaixa em nenhuma categoria.");
 }
+//ok
