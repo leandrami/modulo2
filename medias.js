@@ -28,4 +28,4 @@ switch (opcao) {
 
   default:
     alert("Opção inválida. Por favor, escolha 1, 2 ou 3.");
-}
+} //
